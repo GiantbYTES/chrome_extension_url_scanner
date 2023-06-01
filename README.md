@@ -3,7 +3,7 @@ A small, simple tool with a user-friendly GUI which scans the user's installed C
 
 
 Credits:
-GUI - PyQT5
-URL blacklist script - blcheck by IntellexApps
-DB of Chrome permissions, along with descriptions and severity - ExtAnalysis by Tuhinshubhra
-Icons used in the GUI - Icons8
+GUI - **PyQT5**
+URL blacklist script - **blcheck by IntellexApps**
+DB of Chrome permissions, along with descriptions and severity - **ExtAnalysis by Tuhinshubhra**
+Icons used in the GUI - **Icons8**
